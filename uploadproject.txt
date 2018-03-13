@@ -1,0 +1,16 @@
+project Upload on Github 
+------------------------------
+//Look line 4 and 5 very carefully
+project path: documents/onlineDoctor
+
+1. cd documents
+2. cd OnlineDoctor
+3. git init
+4. git add -A   [this will add all files, dont worry]
+5. git commit -am "commit messahe" [all added files will be committed]
+6. git remote add origin https://github.com/anis123014/Online-Doctor.git(your github repository link)
+7. git push -u origin master
+
+8. add username and password
+
+Now wait for uploading. 
