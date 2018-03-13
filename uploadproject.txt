@@ -1,6 +1,8 @@
 project Upload on Github 
 ------------------------------
 //Look line 4 and 5 very carefully
+// it was done by git bash
+
 project path: documents/onlineDoctor
 
 1. cd documents
